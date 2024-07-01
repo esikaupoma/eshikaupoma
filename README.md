@@ -5,7 +5,7 @@
 <h1 align="center">Hi there, I'm Samiu Esika Upoma</h1>
 <h3 align="center">A passionate frontend developer with a fresh degree in Software Engineering</h3>
 
-<img align="right" alt="coding duck" width="300" src="https://miro.medium.com/v2/resize:fit:944/0*F4t8-xz-b98ZcvEH.gif">
+<img align="right" alt="coding" width="270" src="https://media3.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif?cid=6c09b952aak4gwvu9cgthd3951yibynmfwuhg5ddtz6">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esikaupoma&label=Profile%20views&color=0e75b6&style=flat" alt="esikaupoma" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **samiueshika@gmail.com**
 
-- ⚡ Fun fact **Besides coding, you'll often find me painting or exploring new creative hobbies!**
+- ⚡ Fun fact **Besides coding, I enjoy painting and exploring creative hobbies.**
 
 <!-- h3 align="left">Connect with me:</h3 -->
 <p align="left">
