@@ -1,6 +1,7 @@
-<div align="center">
+<!--<div align="center">
   <img src="https://github.com/esikaupoma/eshikaupoma/blob/main/github-header-image.png" alt="logo">
-</div>
+</div> -->
+
 <h1 align="center">Hi there, I'm Samiu Esika Upoma</h1>
 <h3 align="center">A passionate frontend developer with a fresh degree in Software Engineering</h3>
 
