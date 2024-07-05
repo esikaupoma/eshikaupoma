@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **react framework**
 
-- 📫 How to reach me **samiueshika@gmail.com**
+- 📫 How to reach me **samiuesikaupoma@gmail.com**
 
 - ⚡ Fun fact **Besides coding, I enjoy painting and exploring creative hobbies.**
 
