@@ -3,13 +3,13 @@
 </div> -->
 
 <h1 align="center">Hi there, I'm Samiu Esika Upoma</h1>
-<h3 align="center">A passionate frontend developer with a fresh degree in Software Engineering</h3>
+<h3 align="center">A passionate frontend developer with a degree in Software Engineering</h3>
 
 <img align="right" alt="coding" width="270" src="https://media3.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif?cid=6c09b952aak4gwvu9cgthd3951yibynmfwuhg5ddtz6">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esikaupoma&label=Profile%20views&color=0e75b6&style=flat" alt="esikaupoma" /> </p>
 
-- 🌱 I’m currently learning **react framework**
+- 🌱 I’m currently learning **Web Components**
 
 - 📫 How to reach me **samiuesikaupoma@gmail.com**
 
